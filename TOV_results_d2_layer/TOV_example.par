@@ -52,7 +52,7 @@ CarpetRegrid2::regrid_every =   0
 CarpetRegrid2::num_centres  =   1
 CarpetRegrid2::num_levels_1 =   3
 CarpetRegrid2::radius_1[1]  = 12.0
-CarpetRegrid2::radius_1[2] = 6.0
+CarpetRegrid2::radius_1[2] = 8.0
 
 
 CoordBase::boundary_size_x_lower        = 3
@@ -200,7 +200,7 @@ TOVSolver::TOV_K              = 100
 
 # Set equation of state for evolution
 EOS_Omni::poly_gamma                   = 2
-EOS_Omni::poly_k                       = 95
+EOS_Omni::poly_k                       = 100
 EOS_Omni::gl_gamma                     = 2 
 EOS_Omni::gl_k                         = 100
 
