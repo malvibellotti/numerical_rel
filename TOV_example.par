@@ -54,6 +54,7 @@ CarpetRegrid2::num_levels_1 =   2
 CarpetRegrid2::radius_1[1]  = 12.0
 
 
+
 CoordBase::boundary_size_x_lower        = 3
 CoordBase::boundary_size_y_lower        = 3
 CoordBase::boundary_size_z_lower        = 3
